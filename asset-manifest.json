@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-Tavern/static/css/main.5f21847d.chunk.css",
+    "main.js": "/The-Tavern/static/js/main.914d4e7f.chunk.js",
+    "main.js.map": "/The-Tavern/static/js/main.914d4e7f.chunk.js.map",
+    "runtime-main.js": "/The-Tavern/static/js/runtime-main.04bb9f0b.js",
+    "runtime-main.js.map": "/The-Tavern/static/js/runtime-main.04bb9f0b.js.map",
+    "static/js/2.c5cd4b6c.chunk.js": "/The-Tavern/static/js/2.c5cd4b6c.chunk.js",
+    "static/js/2.c5cd4b6c.chunk.js.map": "/The-Tavern/static/js/2.c5cd4b6c.chunk.js.map",
+    "static/js/3.35fdf8e5.chunk.js": "/The-Tavern/static/js/3.35fdf8e5.chunk.js",
+    "static/js/3.35fdf8e5.chunk.js.map": "/The-Tavern/static/js/3.35fdf8e5.chunk.js.map",
+    "index.html": "/The-Tavern/index.html",
+    "static/css/main.5f21847d.chunk.css.map": "/The-Tavern/static/css/main.5f21847d.chunk.css.map",
+    "static/js/2.c5cd4b6c.chunk.js.LICENSE.txt": "/The-Tavern/static/js/2.c5cd4b6c.chunk.js.LICENSE.txt",
+    "static/js/main.914d4e7f.chunk.js.LICENSE.txt": "/The-Tavern/static/js/main.914d4e7f.chunk.js.LICENSE.txt",
+    "static/media/d20-grey.60e73155.png": "/The-Tavern/static/media/d20-grey.60e73155.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bb9f0b.js",
+    "static/js/2.c5cd4b6c.chunk.js",
+    "static/css/main.5f21847d.chunk.css",
+    "static/js/main.914d4e7f.chunk.js"
+  ]
+}
