@@ -2,6 +2,11 @@
 
 The Tavern is a Dungeons & Dragons helper app. The main goals were to have a digital representation of the user's characters, to have a way to save spells to a favorite list for easy access, and to include digital dice in case the user forgets to bring theirs to the session.
 
+## Deployed Link
+Deployed with a combination of github pages/heroku. Click the link to avoid the "Installation" and "Running the App" sections below.
+https://d-upchurch.github.io/The-Tavern/#/login
+
+
 
 ## Installation
 
